@@ -1,0 +1,10 @@
+[{
+"base":{
+      "user":{"user_id":"uuid","type":"int-0-9","name":"str-2-20","account":"account-5-20","password":"str-6-36","add_time":"timestamp","status":"int-0-1","last_login_time":"int-0","last_login_ip":"str-0-20"},
+      "topic":{"topic_id":"uuid","title":"str-2-100","tpic":"str-0-120","user_id":"uuid","status":"int-0-1","mdf_time":"timestamp","add_time":"timestamp","publisher":"str-0-30","type":"int-1-2","summary":"str-0-100"},
+      "member":{"member_id":"uuid","name":"str-1-50","contact":"str-1-30","tel":"str-1-13","email":"str-0-50","org_name":"str-0-50","since_time":"timestamp","reg_no":"str-0-30","org_no":"str-0-30","corporate":"str-0-10","domain":"str-0-64","business":"str-0-100","addr":"str-0-100","reg_time":"timestamp","status":"int-0-2","account":"str-0-20","pic_path":"str-0-50"},
+      "topic_detail":{"topic_detail_id":"uuid","content":"str-5-65000"},
+      "member_ext":{"member_ext_id":"uuid","org_desc":"str-0-65000","app_desc":"str-0-65000"},
+      "member_app":{"member_app_id":"uuid","member_id":"uuid","code":"str-0-2000"}
+       }
+}]

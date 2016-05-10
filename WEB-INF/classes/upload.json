@@ -1,0 +1,9 @@
+{
+"temp":{"path":"\/upload\/temp\/","allow_ext":"", "max_size":"2097152", "deep":"2"},
+"editor":{"path":"\/upload\/temp\/","allow_ext":"jpg,png,gif,jpeg", "max_size":"2097152", "deep":"2"},
+"news_pic":{"path":"\/upload\/news_pic\/","allow_ext":"jpg,png,gif,jpeg", "max_size":"2097152", "deep":"2"},
+"member_pic":{"path":"\/upload\/member_pic\/","allow_ext":"jpg,png,gif,jpeg", "max_size":"2097152", "deep":"2"},
+"news_file":{"path":"\/upload\/news_file\/","allow_ext":"jpg,png,gif,bmp,rar,zip,swf,doc,docx,xls,xlsx", "max_size":"5242880", "deep":"2"},
+"confer_tpic":{"path":"\/upload\/confer_tpic\/","allow_ext":"jpg,png,gif,jpeg", "max_size":"2097152", "deep":"2"},
+"conguest_tpic":{"path":"\/upload\/conguest_tpic\/","allow_ext":"jpg,png,gif,jpeg", "max_size":"2097152", "deep":"2"}
+}

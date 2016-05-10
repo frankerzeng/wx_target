@@ -1,0 +1,6 @@
+div { zoom: 1; }
+.span1 ,.span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12, .span13 { margin-left: 0.5% !important; }
+.collapse { overflow: hidden; height: 0px; }
+.collapse.in { height: auto; top: 0%; }
+.in.modal.hide { top: 5% !important; }
+.nav .dropdown { height: 10px; height: 10px; }

@@ -1,0 +1,11 @@
+{
+	"adminInfo":"/v0.9/users/{userId}", 
+	"appInfo":"/v0.1/biz/services/enterprises/{enId}", 
+	"orgList":"/v0.9/organizations/{orgId}/orgnodes?$offset={offset}&$limit={limit}",
+	"delOrgNode":"/v0.9/organizations/{orgId}/orgnodes/{nodeId}",
+	"addOrgNode":"/v0.9/organizations/{orgId}/orgnodes",
+	"mdfOrgNode":"/v0.9/organizations/{orgId}/orgnodes/{nodeId}",
+	"moveOrgNode":"/v0.9/organizations/{orgId}/orgnodes/actions/move",
+	"getUnitInfo":"/v0.1/user/enterprises",
+    "mdfUnitInfo":"/v0.1/enterprises/{id}"
+}

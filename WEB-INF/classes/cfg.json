@@ -1,0 +1,43 @@
+{
+  "dbd1": {
+    "url": "jdbc:mysql://192.168.19.196:3306/gyt?useUnicode=true&characterEncoding=utf8",
+    "user": "dd_user",
+    "pass": "dd!@#123"
+  },
+  "db": {
+    "url": "jdbc:mysql://127.0.0.1:3306/wx_base?useUnicode=true&characterEncoding=utf8",
+    "user": "root",
+    "pass": "root"
+  },
+  "wx_cfg": {
+    "token": "zflzfltest",
+    "appid": "wxe0c18f3956a376eb",
+    "appsecret": "376b588ce1cca8d2bd9dceddf53f0d91"
+  },
+  "wx_cfg_self": {
+    "token": "zflzfl",
+    "appid": "wxaa59a98ee9548091",
+    "appsecret": "b688d653c13295be1ad5bd0e8021c573"
+  },
+  "common": {
+    "web_module": "/wx",
+    "xxtea": "95276634",
+    "session_user_name": "huayu-gyt-manager-dev"
+  },
+  "upload": {
+    "root": "/data/resin/www.gyt.cn/admin"
+  },
+  "basePlat": {
+    "url": "http://test.cloud.91open.huayu.nd",
+    "clientId": "105",
+    "clientKey": "43f0f9ffce28444190d809aa3646e01c",
+    "grantType": "client_credentials",
+    "staticHost": "http://test.static.huayu.nd"
+  },
+  "auth": {
+    "log_tag": "L",
+    "short_tag": "S",
+    "log_time": "2592000",
+    "short_time": "3600"
+  }
+}

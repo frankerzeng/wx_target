@@ -1,0 +1,14 @@
+[
+	{"code":"a0","name":"通知公告","encodeHost":"notice-admin.social.web.sdp.101.com","realHost":"notice-admin.social.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a1","name":"IM","encodeHost":"im-ent.social.web.sdp.101.com","realHost":"im-ent.social.web.sdp.101.com/sso","requestUrl":"/sso/tokens/"},
+    {"code":"a2","name":"微博","encodeHost":"microblog-admin.web.sdp.101.com","realHost":"microblog-admin.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a3","name":"Elearning","encodeHost":"elearning.101.com/ep_200498-elearning","realHost":"elearning.101.com/ep_200498-elearning","requestUrl":"/tokens/"},
+    {"code":"a4","name":"个人相册","encodeHost":"album-admin.social.web.sdp.101.com","realHost":"album-admin.social.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a5","name":"抽奖","encodeHost":"lottery-admin.web.sdp.101.com","realHost":"lottery-admin.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a6","name":"新闻中心","encodeHost":"news-admin.social.web.sdp.101.com","realHost":"news-admin.social.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a7","name":"论坛","encodeHost":"forum-admin.web.sdp.101.com","realHost":"forum-admin.web.sdp.101.com","requestUrl":"/tokens/"}
+    {"code":"a8","name":"应用列表","encodeHost":"applist-admin.social.web.sdp.101.com","realHost":"applist-admin.social.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a9","name":"背包","encodeHost":"pack-admin.web.sdp.101.com","realHost":"pack-admin.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a10","name":"评选","encodeHost":"voting-admin.social.web.sdp.101.com","realHost":"voting-admin.social.web.sdp.101.com","requestUrl":"/tokens/"},
+    {"code":"a11","name":"活动","encodeHost":"activity-admin.social.web.sdp.101.com","realHost":"activity-admin.social.web.sdp.101.com","requestUrl":"/tokens/"}
+]
